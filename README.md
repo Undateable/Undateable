@@ -11,3 +11,8 @@ More of me. I have knowledge in C++, C# and Python. I am, by degree, an electron
 
 I have a really vivid imagination so i'm currently hobbying as a game designer and story writing.
 
+## Contact Info
+
+Mail: pentitodante2@gmail.com
+
+LinkedIn: https://www.linkedin.com/in/dante-pentito-3655ab243/
