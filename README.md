@@ -1,4 +1,13 @@
-# Dannette
+# Dannette 
 
+## I'm a 22 years old living nightmare, I talk because I have a mouth. 
+Narrative designer 📚 / Writer 📖 / Game Designer 🎮 / Programmer 💻.
 
-![15232233_208798109564889_7287259586377741555_n]([https://user-images.githubusercontent.com/63015968/217115342-1cf98d3a-770b-4dbb-937e-a3b483058415.jpg](https://unity.com/es))
+I like to call myself a narrative designer (Because I am technically one) 
+
+![3d806a0ec40ada9a74ed83fc5e0def04](https://user-images.githubusercontent.com/63015968/217115937-74e95241-6035-4017-a4af-2ae9389cb1e2.jpg)
+
+More of me. I have knowledge in C++, C# and Python. I am, by degree, an electronic technician. But I am dabbling in Video Games.
+
+I have a really vivid imagination so i'm currently hobbying as a game designer and story writing.
+
