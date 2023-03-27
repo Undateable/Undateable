@@ -9,7 +9,7 @@ I like to call myself a narrative designer (Because I am technically one)
 
 More of me. I have knowledge in C++, C# and Python. I am, by degree, an electronic technician. But I am dabbling in Video Games.
 
-I have a really vivid imagination so i'm currently hobbying as a game designer and story writing.
+I have a really vivid imagination so i'm currently hobbying in game designing and story writing.
 
 ## Contact Info
 
