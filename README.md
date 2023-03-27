@@ -16,3 +16,7 @@ I have a really vivid imagination so i'm currently hobbying as a game designer a
 Mail: pentitodante2@gmail.com
 
 LinkedIn: https://www.linkedin.com/in/dante-pentito-3655ab243/
+
+## Cursos Realizdos/Certificados
+ - Narrative Designer / Udemy.
+ - Basic Python / IEEE-ITBA
