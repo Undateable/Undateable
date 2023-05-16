@@ -20,3 +20,4 @@ LinkedIn: https://www.linkedin.com/in/dante-pentito-3655ab243/
 ## Cursos Realizdos/Certificados
  - Narrative Designer / Udemy.
  - Basic Python / IEEE-ITBA
+![Diseño Narrativo Certificado](https://github.com/Undateable/Undateable/assets/63015968/2e59bac4-d1f2-4579-8093-301cb0d0bc14)
