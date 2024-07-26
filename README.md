@@ -14,6 +14,8 @@ Mail: pentitodante2@gmail.com
 LinkedIn: https://www.linkedin.com/in/dante-pentito-3655ab243/
 
 ## Cursos Realizdos/Certificados
+## Game Design | Brinca - Campus de Videojuegos
+<img src="https://github.com/user-attachments/assets/a3a4f120-b4e4-4e71-b5a5-1580e6415e48" width="540" height="360"/>
 ## Narrative Designer / Udemy.
 <img src="https://github.com/Undateable/Undateable/assets/63015968/2e59bac4-d1f2-4579-8093-301cb0d0bc14" width="540" height="360"/>
 
