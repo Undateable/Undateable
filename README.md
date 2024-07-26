@@ -4,9 +4,8 @@ Narrative designer 📚 / Writer 📖 / Game Designer 🎮 / Programmer 💻.
 
 ![3d806a0ec40ada9a74ed83fc5e0def04](https://user-images.githubusercontent.com/63015968/217115937-74e95241-6035-4017-a4af-2ae9389cb1e2.jpg)
 
-More of me. I have knowledge in C++, C# and Python. I am, by degree, an electronic technician. But I am dabbling in Video Games.
-
-I have a really vivid imagination so i'm currently hobbying in game designing and story writing.
+## About me 
+I'm a passionate Game Designer with a knack for creating immersive and engaging gaming experiences. My niches are Game and narrative design but I have a strong proficiency in C++, C#, and Python, which I use to bring my creative visions to life. My restless and creative mind is always brimming with new ideas and innovative concepts which I strive to take into a professional field in Videogames
 
 ## Contact Info
 
