@@ -15,11 +15,11 @@ LinkedIn: https://www.linkedin.com/in/dante-pentito-3655ab243/
 
 ## Cursos Realizdos/Certificados
 ## Game Design | Brinca - Campus de Videojuegos
-<img src="https://github.com/user-attachments/assets/a3a4f120-b4e4-4e71-b5a5-1580e6415e48" width="720" height="360"/>
+<img src="https://github.com/user-attachments/assets/a3a4f120-b4e4-4e71-b5a5-1580e6415e48" width="650" height="360"/>
 
 ## Narrative Designer / Udemy.
 <img src="https://github.com/Undateable/Undateable/assets/63015968/2e59bac4-d1f2-4579-8093-301cb0d0bc14" width="540" height="360"/>
 
 ## Basic Python / IEEE-ITBA
-<img src="https://github.com/Undateable/Undateable/assets/63015968/346907ae-fbe4-4d16-beb8-fd20e041ccd3" width="720" height="360"/>
+<img src="https://github.com/Undateable/Undateable/assets/63015968/346907ae-fbe4-4d16-beb8-fd20e041ccd3" width="650" height="360"/>
 
